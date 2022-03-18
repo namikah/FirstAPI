@@ -1,12 +1,8 @@
-﻿using Models.Base;
-using Repository.Repository.Contracts;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository.Repository
+namespace MyFirst.Repository.Repository
 {
     public class JsonRepository<T> /*: IRepository<T> where T : class, IEntity*/
     {

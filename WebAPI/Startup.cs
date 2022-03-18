@@ -1,26 +1,34 @@
+using BackendProject.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using MyFirst.Models.Entities;
+using MyFirst.Repository.DataContext;
+using MyFirst.Repository.Repository;
+using MyFirst.Repository.Repository.Contracts;
+using MyFirst.Services.Mapping;
+using MyFirst.Services.Services;
+using MyFirst.Services.Services.Contracts;
 using MyFirst.WebAPI.Data.Extensions;
-using Repository.DataContext;
-using Repository.Mapping;
-using Repository.Repository;
-using Repository.Repository.Contracts;
-using Services.Contracts;
-using Services.Services;
+using System;
+using System.IO;
 using System.Reflection;
 
-namespace WebAPI
+namespace MyFirst.WebAPI
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        private readonly IWebHostEnvironment _environment;
+
+        public Startup(IConfiguration configuration, IWebHostEnvironment environment)
         {
             Configuration = configuration;
+            _environment = environment;
         }
 
         public IConfiguration Configuration { get; }
@@ -38,10 +46,12 @@ namespace WebAPI
             });
             services.AddAutoMapper(typeof(MapperProfile));
 
-
             //services.AddScoped(typeof(IRepository<>), typeof(EFCoreRepository<>));
             //services.AddScoped(typeof(IRepository<>), typeof(JsonRepository<>));
             //services.AddScoped<IStudentService, StudentService>();
+
+            services.AddScoped(typeof(IUserRepository<>), typeof(UserRepository<>));
+            services.AddScoped(typeof(IUserService), typeof(UserService));
 
             services.AddAllTypes<IStudentService>(new[] { typeof(StudentService).GetTypeInfo().Assembly });
             services.AddAllGenericTypes(typeof(IRepository<>), new[] { typeof(EFCoreRepository<>).GetTypeInfo().Assembly });
@@ -52,6 +62,24 @@ namespace WebAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPI", Version = "v1" });
             });
+
+            services.AddIdentity<User, IdentityRole>(options =>
+            {
+                options.User.RequireUniqueEmail = true;
+
+                options.Lockout.MaxFailedAccessAttempts = 5;
+                options.Lockout.AllowedForNewUsers = true;
+                options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+
+                options.Password.RequireDigit = true;
+                options.Password.RequiredLength = 8;
+                options.Password.RequireNonAlphanumeric = true;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireUppercase = true;
+
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+            Constants.SeedDataPath = Path.Combine(_environment.ContentRootPath,"Data", "SeedData");
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

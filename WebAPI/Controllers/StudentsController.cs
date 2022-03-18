@@ -1,16 +1,12 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Models.DTOs;
-using Models.Entities;
-using Repository.DataContext;
-using Repository.Repository.Contracts;
-using Services.Contracts;
-using System.Collections.Generic;
+using MyFirst.Models.DTOs;
+using MyFirst.Models.Entities;
+using MyFirst.Repository.Repository.Contracts;
+using MyFirst.Services.Services.Contracts;
 using System.Threading.Tasks;
 
-namespace WebAPI.Controllers
+namespace MyFirst.WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

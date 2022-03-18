@@ -1,16 +1,14 @@
-﻿using MyFirst.Models.Base;
-using System;
+﻿using Microsoft.AspNetCore.Identity;
+using MyFirst.Models.Entities;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace MyFirst.Repository.Repository.Contracts
 {
-    public interface IRepository<T> where T : class, IEntity
+    public interface IUserRepository<T> where T : class
     {
         Task<IList<T>> GetAllAsync();
-        Task<T> GetAsync(int id);
+        Task<T> GetAsync(string id);
         Task AddAsync(T entity);
         Task AddAsync(IEnumerable<T> entity);
         Task AddAsync(params T[] entity);

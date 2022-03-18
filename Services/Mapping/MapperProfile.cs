@@ -1,14 +1,16 @@
 ﻿using AutoMapper;
-using Models.DTOs;
-using Models.Entities;
+using MyFirst.Models.DTOs;
+using MyFirst.Models.Entities;
 
-namespace Repository.Mapping
+namespace MyFirst.Services.Mapping
 {
-    public class MapperProfile :Profile
+    public class MapperProfile : Profile
     {
         public MapperProfile()
         {
             CreateMap<Student, StudentDto>().ReverseMap();
+
+            CreateMap<User, UserDto>().ReverseMap();
         }
     }
 }

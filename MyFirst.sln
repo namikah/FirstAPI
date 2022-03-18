@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirst.Repository", "Repos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirst.Models", "Models\MyFirst.Models.csproj", "{B9423A8E-AF60-4AB2-B8D6-22733F8133DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirst.Services", "Services\MyFirst.Services.csproj", "{27E0777E-16A5-42E5-AAEA-B35347C51E1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirst.Services", "Services\MyFirst.Services.csproj", "{27E0777E-16A5-42E5-AAEA-B35347C51E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestToAPI", "RequestToAPI\RequestToAPI.csproj", "{8998A7D1-C436-4C48-835F-A399038BD3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestToAPI", "RequestToAPI\RequestToAPI.csproj", "{8998A7D1-C436-4C48-835F-A399038BD3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{A74D07D9-4E13-46B2-BB5F-7EC77C715ED1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8998A7D1-C436-4C48-835F-A399038BD3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8998A7D1-C436-4C48-835F-A399038BD3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8998A7D1-C436-4C48-835F-A399038BD3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74D07D9-4E13-46B2-BB5F-7EC77C715ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74D07D9-4E13-46B2-BB5F-7EC77C715ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74D07D9-4E13-46B2-BB5F-7EC77C715ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74D07D9-4E13-46B2-BB5F-7EC77C715ED1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

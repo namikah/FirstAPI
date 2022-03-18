@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Identity;
 using MyFirst.Models.DTOs;
 using MyFirst.Models.Entities;
 using MyFirst.Repository.DataContext;
@@ -12,20 +13,20 @@ using System.Threading.Tasks;
 
 namespace MyFirst.Services.Services
 {
-    public class StudentService : EFCoreRepository<Student>, IStudentService
+    public class UserService : UserRepository<User>, IUserService
     {
         private readonly IMapper _mapper;
 
-        public StudentService(AppDbContext dbContext, IMapper mapper) : base(dbContext)
+        public UserService(IMapper mapper, UserManager<User> userManager) : base(userManager)
         {
             _mapper = mapper;
         }
 
-        public async Task<IList<StudentDto>> GetAllStudentsAsync()
+        public async Task<List<UserDto>> GetAllUsersAsync()
         {
-            var students = await GetAllAsync();
+            var users = await GetAllAsync();
 
-            return _mapper.Map<List<StudentDto>>(students);
+            return _mapper.Map<List<UserDto>>(users);
         }
 
         public object GetTest()

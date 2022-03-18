@@ -1,14 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Models.Base;
-using Repository.DataContext;
-using Repository.Repository.Contracts;
+using MyFirst.Models.Base;
+using MyFirst.Repository.DataContext;
+using MyFirst.Repository.Repository.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository.Repository
+namespace MyFirst.Repository.Repository
 {
     public class EFCoreRepository<T> : IRepository<T> where T : class, IEntity
     {
@@ -37,12 +37,12 @@ namespace Repository.Repository
 
         public Task AddAsync(IEnumerable<T> entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public Task AddAsync(params T[] entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public async Task DeleteAsync(T entity)
@@ -53,12 +53,12 @@ namespace Repository.Repository
 
         public Task DeleteAsync(IEnumerable<T> entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public Task DeleteAsync(params T[] entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public async Task UpdateAsync(T entity)
@@ -69,12 +69,12 @@ namespace Repository.Repository
 
         public Task UpdateAsync(IEnumerable<T> entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public Task UpdateAsync(params T[] entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
 }

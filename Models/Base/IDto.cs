@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models.Base
+namespace MyFirst.Models.Base
 {
-    public  interface IDto
+    public interface IDto
     {
         public int Id { get; set; }
     }

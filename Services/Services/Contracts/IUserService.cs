@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace MyFirst.Services.Services.Contracts
 {
-    public interface IStudentService : IRepository<Student>
+    public interface IUserService : IUserRepository<User>
     {
         object GetTest();
 
-        Task<IList<StudentDto>> GetAllStudentsAsync();
+        Task<List<UserDto>> GetAllUsersAsync();
     }
 }
