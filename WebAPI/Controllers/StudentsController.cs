@@ -4,6 +4,7 @@ using MyFirst.Models.DTOs;
 using MyFirst.Models.Entities;
 using MyFirst.Repository.Repository.Contracts;
 using MyFirst.Services.Services.Contracts;
+using System;
 using System.Threading.Tasks;
 
 namespace MyFirst.WebAPI.Controllers
@@ -33,11 +34,11 @@ namespace MyFirst.WebAPI.Controllers
         public async Task<IActionResult> Get([FromRoute] int? id)
         {
             if (id == null)
-                return NotFound();
+                throw new Exception("Not found");
 
             var student = await _studentService.GetAsync(id.Value);
             if (student == null)
-                return NotFound();
+                throw new Exception("Not found");
 
             return Ok(_mapper.Map<StudentDto>(student));
         }
@@ -56,14 +57,14 @@ namespace MyFirst.WebAPI.Controllers
         public async Task<IActionResult> Put([FromRoute] int? id, [FromBody] StudentDto studentDto)
         {
             if (id == null)
-                return NotFound();
+                throw new Exception("Not found");
 
             if (id != studentDto.Id)
-                return BadRequest();
+                throw new Exception("Invalid Credential");
 
             var existStudent = await _studentService.GetAsync(id.Value);
             if (existStudent == null)
-                return NotFound();
+                throw new Exception("Not found");
 
             var student = _mapper.Map<Student>(studentDto);
 
@@ -76,11 +77,11 @@ namespace MyFirst.WebAPI.Controllers
         public async Task<IActionResult> Delete([FromRoute] int? id)
         {
             if (id == null)
-                return NotFound();
+                throw new Exception("Not found");
 
             var student = await _studentService.GetAsync(id.Value);
             if (student == null)
-                return NotFound();
+                throw new Exception("Not found");
 
             await _studentRepository.DeleteAsync(student);
 

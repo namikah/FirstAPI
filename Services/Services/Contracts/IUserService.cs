@@ -1,4 +1,5 @@
-﻿using MyFirst.Models.DTOs;
+﻿using MyFirst.AuthenticationService.Models;
+using MyFirst.Models.DTOs;
 using MyFirst.Models.Entities;
 using MyFirst.Repository.Repository.Contracts;
 using System;
@@ -9,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace MyFirst.Services.Services.Contracts
 {
-    public interface IUserService : IUserRepository<User>
+    public interface IUserService
     {
-        object GetTest();
+        Task<string> RegisterAsync(UserDto model);
 
-        Task<List<UserDto>> GetAllUsersAsync();
+        Task<List<User>> GetAsync();
     }
 }

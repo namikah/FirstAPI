@@ -9,6 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\MyFirst.AuthenticationService\MyFirst.AuthenticationService.csproj" />
     <ProjectReference Include="..\Repository\MyFirst.Repository.csproj" />
   </ItemGroup>
 
