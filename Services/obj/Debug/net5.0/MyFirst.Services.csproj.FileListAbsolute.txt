@@ -1,0 +1,42 @@
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Services.deps.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\ref\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Services.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Repository.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\ref\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\obj\Debug\net5.0\MyFirst.Services.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\MyFirst.AuthenticationService.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\Data.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Services\bin\Debug\net5.0\Data.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Services.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\ref\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Services.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\Data.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\Data.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.AuthenticationService.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Repository.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\ref\MyFirst.Services.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Services\obj\Debug\net5.0\MyFirst.Services.pdb

@@ -1,0 +1,30 @@
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\bin\Debug\net5.0\MyFirst.Models.deps.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\bin\Debug\net5.0\MyFirst.Models.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\bin\Debug\net5.0\MyFirst.Models.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\bin\Debug\net5.0\ref\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\ref\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Models\obj\Debug\net5.0\MyFirst.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\bin\Debug\net5.0\MyFirst.Models.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\bin\Debug\net5.0\MyFirst.Models.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\bin\Debug\net5.0\MyFirst.Models.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\bin\Debug\net5.0\ref\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\ref\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Models\obj\Debug\net5.0\MyFirst.Models.genruntimeconfig.cache

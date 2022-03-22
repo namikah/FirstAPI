@@ -1,0 +1,36 @@
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\RequestToAPI.exe
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\RequestToAPI.deps.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\RequestToAPI.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\RequestToAPI.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\ref\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\RequestToAPI.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\ref\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\RequestToAPI\obj\Debug\net5.0\RequestToAPI.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\RequestToAPI.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\RequestToAPI.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\RequestToAPI.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\RequestToAPI.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\ref\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\RequestToAPI.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\ref\RequestToAPI.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\RequestToAPI\obj\Debug\net5.0\RequestToAPI.genruntimeconfig.cache

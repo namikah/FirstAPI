@@ -1,0 +1,30 @@
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.AuthenticationService.deps.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\bin\Debug\net5.0\ref\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.AuthenticationService.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\ref\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.AuthenticationService.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\bin\Debug\net5.0\ref\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.AuthenticationService.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\ref\MyFirst.AuthenticationService.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\MyFirst.AuthenticationService\obj\Debug\net5.0\MyFirst.AuthenticationService.pdb

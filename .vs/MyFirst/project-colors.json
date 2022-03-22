@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f8c8705-e4d3-4b1d-9a07-d6522b87430d": {
+      "ProjectGuid": "4f8c8705-e4d3-4b1d-9a07-d6522b87430d",
+      "DisplayName": "MyFirst.API",
+      "ColorIndex": 0
+    },
+    "5e85aaec-f29a-4bd9-bcac-e12526cb388c": {
+      "ProjectGuid": "5e85aaec-f29a-4bd9-bcac-e12526cb388c",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "950fb477-26c4-4886-88a6-9fe706856155": {
+      "ProjectGuid": "950fb477-26c4-4886-88a6-9fe706856155",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "20fb31ef-c587-4b31-b0ac-0a77de70e9f4": {
+      "ProjectGuid": "20fb31ef-c587-4b31-b0ac-0a77de70e9f4",
+      "DisplayName": "MyFirst.WebAPI",
+      "ColorIndex": 3
+    },
+    "6417b207-29c7-4b69-8cf7-0fe14d1b44e6": {
+      "ProjectGuid": "6417b207-29c7-4b69-8cf7-0fe14d1b44e6",
+      "DisplayName": "MyFirst.Repository",
+      "ColorIndex": 4
+    },
+    "b9423a8e-af60-4ab2-b8d6-22733f8133de": {
+      "ProjectGuid": "b9423a8e-af60-4ab2-b8d6-22733f8133de",
+      "DisplayName": "MyFirst.Models",
+      "ColorIndex": 5
+    },
+    "27e0777e-16a5-42e5-aaea-b35347c51e1a": {
+      "ProjectGuid": "27e0777e-16a5-42e5-aaea-b35347c51e1a",
+      "DisplayName": "MyFirst.Services",
+      "ColorIndex": 6
+    },
+    "8998a7d1-c436-4c48-835f-a399038bd3ef": {
+      "ProjectGuid": "8998a7d1-c436-4c48-835f-a399038bd3ef",
+      "DisplayName": "RequestToAPI",
+      "ColorIndex": 7
+    },
+    "a74d07d9-4e13-46b2-bb5f-7ec77c715ed1": {
+      "ProjectGuid": "a74d07d9-4e13-46b2-bb5f-7ec77c715ed1",
+      "DisplayName": "Data",
+      "ColorIndex": 8
+    },
+    "d7c6d7b5-4f87-4386-a703-7a6de4e0f931": {
+      "ProjectGuid": "d7c6d7b5-4f87-4386-a703-7a6de4e0f931",
+      "DisplayName": "MyFirst.AuthenticationService",
+      "ColorIndex": 9
+    },
+    "8ac4c379-baae-4aa5-93c1-977506614de7": {
+      "ProjectGuid": "8ac4c379-baae-4aa5-93c1-977506614de7",
+      "DisplayName": "MyFirst.Infrastructure",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

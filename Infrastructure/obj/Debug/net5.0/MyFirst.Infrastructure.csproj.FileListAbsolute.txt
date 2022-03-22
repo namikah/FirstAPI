@@ -1,0 +1,24 @@
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\bin\Debug\net5.0\MyFirst.Infrastructure.deps.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\bin\Debug\net5.0\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\bin\Debug\net5.0\ref\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\bin\Debug\net5.0\MyFirst.Infrastructure.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\ref\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\bin\Debug\net5.0\MyFirst.Infrastructure.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\bin\Debug\net5.0\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\bin\Debug\net5.0\ref\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\bin\Debug\net5.0\MyFirst.Infrastructure.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\ref\MyFirst.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Infrastructure\obj\Debug\net5.0\MyFirst.Infrastructure.pdb

@@ -1,0 +1,40 @@
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\MyFirst.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\MyFirst.Repository.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\MyFirst\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\MyFirst.Models.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\MyFirst.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\MyFirst.Repository.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\bin\Debug\net5.0\MyFirst.Models.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\FirstAPI\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
